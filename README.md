@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi
+## My name is Samuel Dawotola and I am interested in large language models, reinforcement learning, and low level systems programming
 
 <!--
 **samueldawotola/samueldawotola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
